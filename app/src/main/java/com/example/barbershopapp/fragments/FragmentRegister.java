@@ -62,7 +62,7 @@ public class FragmentRegister extends Fragment {
         return secretAdminCode;
     }
 
-    private static String secretAdminCode = "SecretAdminCode123";
+    private static String secretAdminCode = "Admin123";
     private EditText editTextRegFullName, editTextRegEmail, editTextRegID, editTextRegBirthday, editTextRegMobile, editTextAdminCode, editTextRegPwd, editTextRegConfirmPwd;
     private ProgressBar progressBar;
     private RadioGroup radioGroupRegGender;
